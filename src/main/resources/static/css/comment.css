@@ -1,0 +1,17 @@
+.comment {
+    border: 1px solid var(--border-color);
+    border-top-right-radius: var(--border-radius);
+    border-top-left-radius: var(--border-radius);
+    width: auto;
+    margin-top: 1rem;
+}
+
+.comment .information {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+
+.comment .text {
+    padding: 0.5rem;
+}
